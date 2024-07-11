@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # ruby_project
-=======
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,4 +25,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> 5f874e6 (initial commit)
+
